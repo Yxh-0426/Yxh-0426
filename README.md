@@ -1,4 +1,4 @@
-# Hi there, I'm a CS freshman 👋
+# Hi there, I'm a freshman in BUPT and Github
 
 > Exploring Computer Science, AI, and intelligent agents.
 
